@@ -8,8 +8,11 @@ const inputResposta = document.getElementById("input-resposta");
 
 const phrases = [
   "i ala, que gay mano, af, confessso q to com sdd de vc :(",
-  "minha vidinha ta muito parada, af",
-  "adoraria se a gente pudesse voltar a se ver",
+  "sdd de conversar com vc",
+  "passa pela gente e mal comprimenta kkkkkkkkk, af",
+  "ai fiz isso aqui para vc",
+  "adoraria q a gente pudesse voltar a se ver",
+  "so n sei se vc aceitaria",
   ":>"
 ];
 
